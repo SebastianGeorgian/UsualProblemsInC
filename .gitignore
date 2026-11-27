@@ -1,0 +1,10 @@
+usual-problems
+test-problems
+*.o
+*.exe
+bin/
+obj/
+*.layout
+*.depend
+.vscode/
+.idea/
